@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:orientation="vertical">
+
+    <RelativeLayout
+        android:id="@+id/common"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp">
+
+        <RelativeLayout
+            android:id="@+id/rl_01"
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            android:background="@drawable/fillet_sideitemgreen">
+
+            <ImageView
+                android:id="@+id/genderiv"
+                android:layout_width="20dp"
+                android:layout_height="20dp"
+                android:layout_alignParentRight="true" />
+
+            <LinearLayout
+                android:id="@+id/ll_bq"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:layout_below="@id/genderiv"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:id="@+id/bq_num"
+                    style="@style/item_sidebq"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="10" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/ll_bq"
+                android:layout_marginLeft="10dp"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:id="@+id/bc_num"
+                    style="@style/item_sidebcnum"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="10" />
+
+                <TextView
+                    style="@style/item_sidebc"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="2dp"
+                    android:text="床" />
+            </LinearLayout>
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignBottom="@id/rl_01"
+            android:layout_alignParentEnd="true"
+            android:layout_alignTop="@id/rl_01"
+            android:layout_marginLeft="10dp"
+            android:layout_toRightOf="@id/rl_01"
+            android:orientation="vertical">
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentTop="true"
+                android:layout_alignParentEnd="true"
+                android:layout_alignParentStart="true">
+
+                <LinearLayout
+                    android:id="@+id/ll_01"
+                    android:layout_width="wrap_content"
+                    android:layout_weight="1"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical">
+
+                    <LinearLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:orientation="horizontal">
+
+                        <TextView
+                            style="@style/item_sidemsg"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="姓名:" />
+
+                        <TextView
+                            android:id="@+id/side_name"
+                            style="@style/item_sidemsgs"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginLeft="5dp"
+                            android:text="张虽顺" />
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:id="@+id/ll_ks"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="2dp"
+                        android:orientation="horizontal">
+
+                        <TextView
+                            style="@style/item_sidemsg"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="科室:" />
+
+                        <TextView
+                            android:id="@+id/side_ks"
+                            style="@style/item_sidemsgs"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginLeft="5dp"
+                            android:text="内科" />
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:id="@+id/ll_biaoshi"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="2dp"
+                        android:orientation="horizontal">
+
+                        <TextView
+                            style="@style/item_sidemsg"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="住院ID" />
+
+                        <TextView
+                            android:id="@+id/item_bianshi"
+                            style="@style/item_sidemsgs"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginLeft="5dp"
+                            android:text="26454545" />
+                    </LinearLayout>
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_weight="1"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical">
+
+                    <LinearLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:orientation="horizontal">
+
+                        <TextView
+                            style="@style/item_sidemsg"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="性别:" />
+
+                        <TextView
+                            android:id="@+id/side_gender"
+                            style="@style/item_sidemsgs"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="男" />
+
+                        <TextView
+                            style="@style/item_sidemsg"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginLeft="5dp"
+                            android:text="年龄:" />
+
+                        <TextView
+                            android:id="@+id/side_age"
+                            style="@style/item_sidemsgs"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginLeft="5dp"
+                            android:text="99" />
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="2dp"
+                        android:orientation="horizontal">
+
+                        <TextView
+                            style="@style/item_sidemsg"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="护理等级:" />
+
+                        <TextView
+                            android:id="@+id/side_hldj"
+                            style="@style/item_sidemsgs"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="一级护理" />
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="2dp"
+                        android:orientation="horizontal">
+
+                        <TextView
+                            style="@style/item_sidemsg"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="住院次数:" />
+
+                        <TextView
+                            android:id="@+id/Visit_ID"
+                            style="@style/item_sidemsgs"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginLeft="5dp"
+                            android:text="1" />
+                    </LinearLayout>
+                </LinearLayout>
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentBottom="true"
+                android:orientation="horizontal">
+
+                <TextView
+                    style="@style/item_sidetime"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="入院时间:" />
+
+                <TextView
+                    android:id="@+id/side_time"
+                    style="@style/item_sidetime"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="2014年9月22日" />
+            </LinearLayout>
+
+        </RelativeLayout>
+    </RelativeLayout>
+</LinearLayout>

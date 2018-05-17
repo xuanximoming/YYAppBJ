@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center_vertical"
+    android:orientation="horizontal" >
+
+    <TextView
+        android:id="@+id/name"
+        style="@style/gray20"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="3"
+        android:background="@color/white"
+        android:paddingBottom="20dp"
+        android:paddingLeft="10dp"
+        android:paddingTop="20dp"
+          android:layout_marginBottom="10dp"
+        android:text="哈喽哈喽" />
+
+    <Button
+        android:id="@+id/bt"
+        android:text="选择"
+         style="@style/gray20"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="10dp"
+        android:layout_marginRight="10dp"
+        android:background="@drawable/selector_msgup"
+        android:layout_weight="5"
+        android:visibility="visible" />
+
+</LinearLayout>

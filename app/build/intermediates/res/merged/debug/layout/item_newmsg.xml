@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/selector_listview_graybg"
+    android:padding="10dp">
+
+    <RelativeLayout
+        android:id="@+id/common"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp">
+
+        <ImageView
+            android:id="@+id/icon"
+            android:layout_width="45dp"
+            android:layout_height="45dp"
+            android:layout_centerVertical="true"
+            android:background="@drawable/icon_onejob" />
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="10dp"
+            android:layout_toRightOf="@id/icon"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/title"
+                style="@style/msgtitle_16"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:ellipsize="end"
+                android:maxLength="11"
+                android:singleLine="true"
+                android:text="哪些方法可以治疗风湿性关节炎" />
+
+            <TextView
+                android:id="@+id/desc"
+                style="@style/item_sidetime"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:ellipsize="end"
+                android:maxLength="11"
+                android:singleLine="true"
+                android:text="哪些方法可以治疗风湿性关节炎" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:gravity="center"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/time"
+                style="@style/msgtime_13"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="11月4日" />
+
+            <ImageView
+                android:id="@+id/state"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="7dp"
+                android:background="@drawable/icon_msgstate" />
+        </LinearLayout>
+    </RelativeLayout>
+
+</LinearLayout>

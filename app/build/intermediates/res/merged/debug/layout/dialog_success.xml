@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center"
+    android:layout_margin="30dp"
+    android:background="@drawable/dialog_success_bg"
+    android:gravity="center"
+    android:orientation="vertical" >
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:background="@drawable/dialog_success_top" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_margin="25dp"
+        android:gravity="center"
+        android:text="此病人医嘱执行单匹配成功，可以执行"
+        android:textColor="@color/white"
+        android:textSize="25sp" />
+
+    <Button
+        android:id="@+id/dialog_btnok"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_margin="25dp"
+        android:gravity="center"
+        android:text="立即执行"
+        android:background="@drawable/dialog_btn"
+        android:textColor="@color/white"
+        android:textSize="20sp" />
+
+</LinearLayout>

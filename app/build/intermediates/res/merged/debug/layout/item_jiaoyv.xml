@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/selector_listview_graybg"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+        <RadioButton
+            android:id="@+id/radio"
+            style="@style/radio_pg"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="15dp"
+            android:focusable="false"
+            android:visibility="gone" />
+
+        <TextView
+            android:id="@+id/name"
+            style="@style/graybd18"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="50dp"
+            android:layout_toRightOf="@id/radio"
+            android:paddingBottom="10dp"
+            android:paddingLeft="20dp"
+            android:paddingRight="20dp"
+            android:paddingTop="10dp"
+            android:text="哈喽哈喽哈喽哈喽哈喽哈喽哈喽哈喽哈喽哈喽哈喽哈喽" />
+
+        <EditText
+            android:id="@+id/edit"
+            android:layout_width="150dp"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="-50dp"
+            android:layout_toRightOf="@id/name"
+            android:background="@drawable/fillet_editgray"
+            android:imeOptions="actionDone"
+            android:padding="5dp"
+            android:singleLine="true"
+            android:visibility="gone" />
+
+        <ImageView
+            android:id="@+id/next"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_gravity="center_vertical"
+            android:layout_marginRight="10dp"
+            android:src="@drawable/right"
+            android:visibility="invisible" />
+
+        <CheckBox
+            android:id="@+id/check"
+            style="@style/checkbox_pg"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="15dp"
+            android:layout_toLeftOf="@id/next"
+            android:focusable="false"
+            android:visibility="gone" />
+    </RelativeLayout>
+
+</LinearLayout>

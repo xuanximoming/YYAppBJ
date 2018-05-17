@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <include
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        layout="@layout/title_activity" />
+
+    <ImageView
+        android:layout_width="120dp"
+        android:layout_height="120dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="30dp"
+        android:background="@drawable/bigdocter" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical" >
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:layout_marginTop="25dp"
+            android:orientation="horizontal" >
+
+            <TextView
+                android:id="@+id/textip"
+                android:layout_width="150dp"
+                android:layout_height="@dimen/loginheight"
+                android:gravity="center_vertical|right"
+                android:text="护士姓名："
+                android:textSize="18sp" />
+
+            <TextView
+                android:id="@+id/tvname"
+                android:layout_width="fill_parent"
+                android:layout_height="@dimen/loginheight"
+                android:layout_alignParentRight="true"
+                android:layout_toRightOf="@id/textip"
+                android:gravity="center_vertical"
+                android:paddingLeft="10dp"
+                android:paddingRight="10dp"
+                android:text="赵丽丽"
+                android:textSize="18sp" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:orientation="horizontal" >
+
+            <TextView
+                android:id="@+id/textduankou"
+                android:layout_width="150dp"
+                android:layout_height="@dimen/loginheight"
+                android:gravity="center_vertical|right"
+                android:text="科室："
+                android:textSize="18sp" />
+
+            <TextView
+                android:id="@+id/tvbingqu"
+                android:layout_width="fill_parent"
+                android:layout_height="@dimen/loginheight"
+                android:layout_alignParentRight="true"
+                android:layout_toRightOf="@id/textduankou"
+                android:gravity="center_vertical"
+                android:paddingLeft="10dp"
+                android:paddingRight="10dp"
+                android:text="三号楼，四层15区"
+                android:textSize="18sp" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:orientation="horizontal" >
+
+            <TextView
+                android:id="@+id/textduankou1"
+                android:layout_width="150dp"
+                android:layout_height="@dimen/loginheight"
+                android:gravity="center_vertical|right"
+                android:text="登录用户名："
+                android:textSize="18sp" />
+
+            <TextView
+                android:id="@+id/tvusername"
+                android:layout_width="fill_parent"
+                android:layout_height="@dimen/loginheight"
+                android:layout_alignParentRight="true"
+                android:layout_toRightOf="@id/textduankou1"
+                android:gravity="center_vertical"
+                android:paddingLeft="10dp"
+                android:paddingRight="10dp"
+                android:text="yangfan"
+                android:textSize="18sp" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:visibility="gone"
+            android:orientation="horizontal" >
+
+            <TextView
+                android:id="@+id/textchuanma"
+                android:layout_width="120dp"
+                android:layout_height="@dimen/loginheight"
+                android:gravity="center_vertical|right"
+                android:text="密码："
+                android:textSize="18sp" />
+
+            <EditText
+                android:id="@+id/etpassword"
+                android:layout_width="fill_parent"
+                android:layout_height="@dimen/loginheight"
+                android:layout_alignParentRight="true"
+                android:layout_toRightOf="@id/textchuanma"
+                android:background="@drawable/circle_graybg"
+                android:paddingLeft="10dp"
+                android:paddingRight="10dp"
+                android:singleLine="true"
+                android:textSize="15sp" />
+        </RelativeLayout>
+
+        <Button
+            android:visibility="gone"
+            android:id="@+id/change_bt"
+            android:layout_width="180dp"
+            android:layout_height="40dp"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="50dp"
+            android:background="@drawable/selector_green"
+            android:gravity="center"
+            android:text="确定"
+            android:textColor="@color/white"
+            android:textSize="20sp" />
+    </LinearLayout>
+
+</LinearLayout>

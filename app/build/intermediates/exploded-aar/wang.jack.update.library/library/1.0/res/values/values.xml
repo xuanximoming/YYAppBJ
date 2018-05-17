@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/C:/Users/Jack/AndroidStudioProjects/HandyUpateProject/library/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="app_name">library</string>
+    <string name="cancel">取消</string>
+    <string name="latest">暂无更新</string>
+    <string name="update_title">更新提示</string>
+    <string name="update_version">版本更新</string>
+    <string name="updating">正在更新</string>
+    <string name="yes">确定</string>
+</resources>

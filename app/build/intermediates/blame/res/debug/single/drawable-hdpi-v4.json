@@ -1,0 +1,538 @@
+[
+    {
+        "merged": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\progress_6.png",
+        "source": "F:\\CODE\\Andriod\\YYAppBJ\\app\\src\\main\\res\\drawable-hdpi\\progress_6.png"
+    },
+    {
+        "merged": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\circle_graybg1.png",
+        "source": "F:\\CODE\\Andriod\\YYAppBJ\\app\\src\\main\\res\\drawable-hdpi\\circle_graybg1.png"
+    },
+    {
+        "merged": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_search_api_mtrl_alpha.png",
+        "source": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\drawable-hdpi-v4\\abc_ic_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\circle.png",
+        "source": "F:\\CODE\\Andriod\\YYAppBJ\\app\\src\\main\\res\\drawable-hdpi\\circle.png"
+    },
+    {
+        "merged": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\usericon.png",
+        "source": "F:\\CODE\\Andriod\\YYAppBJ\\app\\src\\main\\res\\drawable-hdpi\\usericon.png"
+    },
+    {
+        "merged": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\title_next.png",
+        "source": "F:\\CODE\\Andriod\\YYAppBJ\\app\\src\\main\\res\\drawable-hdpi\\title_next.png"
+    },
+    {
+        "merged": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png",
+        "source": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\drawable-hdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_000.png",
+        "source": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\radiogp.png",
+        "source": "F:\\CODE\\Andriod\\YYAppBJ\\app\\src\\main\\res\\drawable-hdpi\\radiogp.png"
+    },
+    {
+        "merged": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ok_normal.png",
+        "source": "F:\\CODE\\Andriod\\YYAppBJ\\app\\src\\main\\res\\drawable-hdpi\\ok_normal.png"
+    },
+    {
+        "merged": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\title_function_bg.9.png",
+        "source": "F:\\CODE\\Andriod\\YYAppBJ\\app\\src\\main\\res\\drawable-hdpi\\title_function_bg.9.png"
+    },
+    {
+        "merged": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\maintab_patient_pressed.png",
+        "source": "F:\\CODE\\Andriod\\YYAppBJ\\app\\src\\main\\res\\drawable-hdpi\\maintab_patient_pressed.png"
+    },
+    {
+        "merged": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\progress_7.png",
+        "source": "F:\\CODE\\Andriod\\YYAppBJ\\app\\src\\main\\res\\drawable-hdpi\\progress_7.png"
+    },
+    {
+        "merged": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\maintab_message_normal.png",
+        "source": "F:\\CODE\\Andriod\\YYAppBJ\\app\\src\\main\\res\\drawable-hdpi\\maintab_message_normal.png"
+    },
+    {
+        "merged": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_focused_holo.9.png",
+        "source": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\drawable-hdpi-v4\\abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_dark.9.png",
+        "source": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\patienttitlemsg.png",
+        "source": "F:\\CODE\\Andriod\\YYAppBJ\\app\\src\\main\\res\\drawable-hdpi\\patienttitlemsg.png"
+    },
+    {
+        "merged": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png",
+        "source": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\drawable-hdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\progress_16.png",
+        "source": "F:\\CODE\\Andriod\\YYAppBJ\\app\\src\\main\\res\\drawable-hdpi\\progress_16.png"
+    },
+    {
+        "merged": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_015.png",
+        "source": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\set_bt.png",
+        "source": "F:\\CODE\\Andriod\\YYAppBJ\\app\\src\\main\\res\\drawable-hdpi\\set_bt.png"
+    },
+    {
+        "merged": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\log_push.png",
+        "source": "F:\\CODE\\Andriod\\YYAppBJ\\app\\src\\main\\res\\drawable-hdpi\\log_push.png"
+    },
+    {
+        "merged": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\log_bt.png",
+        "source": "F:\\CODE\\Andriod\\YYAppBJ\\app\\src\\main\\res\\drawable-hdpi\\log_bt.png"
+    },
+    {
+        "merged": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_longpressed_holo.9.png",
+        "source": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\drawable-hdpi-v4\\abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png",
+        "source": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon.png",
+        "source": "F:\\CODE\\Andriod\\YYAppBJ\\app\\src\\main\\res\\drawable-hdpi\\icon.png"
+    },
+    {
+        "merged": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_moreoverflow_mtrl_alpha.png",
+        "source": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\drawable-hdpi-v4\\abc_ic_menu_moreoverflow_mtrl_alpha.png"
+    },
+    {
+        "merged": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_015.png",
+        "source": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png",
+        "source": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\drawable-hdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_rating_star_off_mtrl_alpha.png",
+        "source": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\drawable-hdpi-v4\\abc_btn_rating_star_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png",
+        "source": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\drawable-hdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_qujob.png",
+        "source": "F:\\CODE\\Andriod\\YYAppBJ\\app\\src\\main\\res\\drawable-hdpi\\icon_qujob.png"
+    },
+    {
+        "merged": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_share_mtrl_alpha.png",
+        "source": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\drawable-hdpi-v4\\abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\progress_15.png",
+        "source": "F:\\CODE\\Andriod\\YYAppBJ\\app\\src\\main\\res\\drawable-hdpi\\progress_15.png"
+    },
+    {
+        "merged": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mm_title_btn_receiver_normal.png",
+        "source": "F:\\CODE\\Andriod\\YYAppBJ\\app\\src\\main\\res\\drawable-hdpi\\mm_title_btn_receiver_normal.png"
+    },
+    {
+        "merged": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\jianyan.png",
+        "source": "F:\\CODE\\Andriod\\YYAppBJ\\app\\src\\main\\res\\drawable-hdpi\\jianyan.png"
+    },
+    {
+        "merged": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mm_title_functionframe_line.png",
+        "source": "F:\\CODE\\Andriod\\YYAppBJ\\app\\src\\main\\res\\drawable-hdpi\\mm_title_functionframe_line.png"
+    },
+    {
+        "merged": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\toastbg.png",
+        "source": "F:\\CODE\\Andriod\\YYAppBJ\\app\\src\\main\\res\\drawable-hdpi\\toastbg.png"
+    },
+    {
+        "merged": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ok_pressed.png",
+        "source": "F:\\CODE\\Andriod\\YYAppBJ\\app\\src\\main\\res\\drawable-hdpi\\ok_pressed.png"
+    },
+    {
+        "merged": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mm_title_btn_normal.9.png",
+        "source": "F:\\CODE\\Andriod\\YYAppBJ\\app\\src\\main\\res\\drawable-hdpi\\mm_title_btn_normal.9.png"
+    },
+    {
+        "merged": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\maintab_patient_normal.png",
+        "source": "F:\\CODE\\Andriod\\YYAppBJ\\app\\src\\main\\res\\drawable-hdpi\\maintab_patient_normal.png"
+    },
+    {
+        "merged": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\huli.png",
+        "source": "F:\\CODE\\Andriod\\YYAppBJ\\app\\src\\main\\res\\drawable-hdpi\\huli.png"
+    },
+    {
+        "merged": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_default_mtrl_alpha.9.png",
+        "source": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\drawable-hdpi-v4\\abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dialog_failed_bg.png",
+        "source": "F:\\CODE\\Andriod\\YYAppBJ\\app\\src\\main\\res\\drawable-hdpi\\dialog_failed_bg.png"
+    },
+    {
+        "merged": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\progress_2.png",
+        "source": "F:\\CODE\\Andriod\\YYAppBJ\\app\\src\\main\\res\\drawable-hdpi\\progress_2.png"
+    },
+    {
+        "merged": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dialog_btn.png",
+        "source": "F:\\CODE\\Andriod\\YYAppBJ\\app\\src\\main\\res\\drawable-hdpi\\dialog_btn.png"
+    },
+    {
+        "merged": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dialog_failed_top.png",
+        "source": "F:\\CODE\\Andriod\\YYAppBJ\\app\\src\\main\\res\\drawable-hdpi\\dialog_failed_top.png"
+    },
+    {
+        "merged": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_onejob.png",
+        "source": "F:\\CODE\\Andriod\\YYAppBJ\\app\\src\\main\\res\\drawable-hdpi\\icon_onejob.png"
+    },
+    {
+        "merged": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bigdocter.png",
+        "source": "F:\\CODE\\Andriod\\YYAppBJ\\app\\src\\main\\res\\drawable-hdpi\\bigdocter.png"
+    },
+    {
+        "merged": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\man.png",
+        "source": "F:\\CODE\\Andriod\\YYAppBJ\\app\\src\\main\\res\\drawable-hdpi\\man.png"
+    },
+    {
+        "merged": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png",
+        "source": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\drawable-hdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\search.png",
+        "source": "F:\\CODE\\Andriod\\YYAppBJ\\app\\src\\main\\res\\drawable-hdpi\\search.png"
+    },
+    {
+        "merged": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\progress_8.png",
+        "source": "F:\\CODE\\Andriod\\YYAppBJ\\app\\src\\main\\res\\drawable-hdpi\\progress_8.png"
+    },
+    {
+        "merged": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pazzbt.png",
+        "source": "F:\\CODE\\Andriod\\YYAppBJ\\app\\src\\main\\res\\drawable-hdpi\\pazzbt.png"
+    },
+    {
+        "merged": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\progress_5.png",
+        "source": "F:\\CODE\\Andriod\\YYAppBJ\\app\\src\\main\\res\\drawable-hdpi\\progress_5.png"
+    },
+    {
+        "merged": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_pressed_holo_light.9.png",
+        "source": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\drawable-hdpi-v4\\abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\msg_read.png",
+        "source": "F:\\CODE\\Andriod\\YYAppBJ\\app\\src\\main\\res\\drawable-hdpi\\msg_read.png"
+    },
+    {
+        "merged": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\docter.png",
+        "source": "F:\\CODE\\Andriod\\YYAppBJ\\app\\src\\main\\res\\drawable-hdpi\\docter.png"
+    },
+    {
+        "merged": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\line.png",
+        "source": "F:\\CODE\\Andriod\\YYAppBJ\\app\\src\\main\\res\\drawable-hdpi\\line.png"
+    },
+    {
+        "merged": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png",
+        "source": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\drawable-hdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\app_company_logo.jpg",
+        "source": "F:\\CODE\\Andriod\\YYAppBJ\\app\\src\\main\\res\\drawable-hdpi\\app_company_logo.jpg"
+    },
+    {
+        "merged": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\searchpatientgaoji.png",
+        "source": "F:\\CODE\\Andriod\\YYAppBJ\\app\\src\\main\\res\\drawable-hdpi\\searchpatientgaoji.png"
+    },
+    {
+        "merged": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\progress_12.png",
+        "source": "F:\\CODE\\Andriod\\YYAppBJ\\app\\src\\main\\res\\drawable-hdpi\\progress_12.png"
+    },
+    {
+        "merged": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\welcome.jpg",
+        "source": "F:\\CODE\\Andriod\\YYAppBJ\\app\\src\\main\\res\\drawable-hdpi\\welcome.jpg"
+    },
+    {
+        "merged": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\radiopg_pressd.png",
+        "source": "F:\\CODE\\Andriod\\YYAppBJ\\app\\src\\main\\res\\drawable-hdpi\\radiopg_pressd.png"
+    },
+    {
+        "merged": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png",
+        "source": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\drawable-hdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\msg_unread.png",
+        "source": "F:\\CODE\\Andriod\\YYAppBJ\\app\\src\\main\\res\\drawable-hdpi\\msg_unread.png"
+    },
+    {
+        "merged": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png",
+        "source": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\drawable-hdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\jiancha.png",
+        "source": "F:\\CODE\\Andriod\\YYAppBJ\\app\\src\\main\\res\\drawable-hdpi\\jiancha.png"
+    },
+    {
+        "merged": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\set_push.png",
+        "source": "F:\\CODE\\Andriod\\YYAppBJ\\app\\src\\main\\res\\drawable-hdpi\\set_push.png"
+    },
+    {
+        "merged": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mm_title_btn_keyboard_normal.png",
+        "source": "F:\\CODE\\Andriod\\YYAppBJ\\app\\src\\main\\res\\drawable-hdpi\\mm_title_btn_keyboard_normal.png"
+    },
+    {
+        "merged": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\maintab_setting_normal.png",
+        "source": "F:\\CODE\\Andriod\\YYAppBJ\\app\\src\\main\\res\\drawable-hdpi\\maintab_setting_normal.png"
+    },
+    {
+        "merged": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_pressed_holo_dark.9.png",
+        "source": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\drawable-hdpi-v4\\abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\setting_set.png",
+        "source": "F:\\CODE\\Andriod\\YYAppBJ\\app\\src\\main\\res\\drawable-hdpi\\setting_set.png"
+    },
+    {
+        "merged": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\jiaojieban.png",
+        "source": "F:\\CODE\\Andriod\\YYAppBJ\\app\\src\\main\\res\\drawable-hdpi\\jiaojieban.png"
+    },
+    {
+        "merged": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\setting_banquanxx.png",
+        "source": "F:\\CODE\\Andriod\\YYAppBJ\\app\\src\\main\\res\\drawable-hdpi\\setting_banquanxx.png"
+    },
+    {
+        "merged": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\progress_10.png",
+        "source": "F:\\CODE\\Andriod\\YYAppBJ\\app\\src\\main\\res\\drawable-hdpi\\progress_10.png"
+    },
+    {
+        "merged": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\progress_13.png",
+        "source": "F:\\CODE\\Andriod\\YYAppBJ\\app\\src\\main\\res\\drawable-hdpi\\progress_13.png"
+    },
+    {
+        "merged": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\jiaoyu.png",
+        "source": "F:\\CODE\\Andriod\\YYAppBJ\\app\\src\\main\\res\\drawable-hdpi\\jiaoyu.png"
+    },
+    {
+        "merged": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\woman.png",
+        "source": "F:\\CODE\\Andriod\\YYAppBJ\\app\\src\\main\\res\\drawable-hdpi\\woman.png"
+    },
+    {
+        "merged": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png",
+        "source": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\drawable-hdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\progress_1.png",
+        "source": "F:\\CODE\\Andriod\\YYAppBJ\\app\\src\\main\\res\\drawable-hdpi\\progress_1.png"
+    },
+    {
+        "merged": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\drawable-hdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mm_title_btn_pressed.9.png",
+        "source": "F:\\CODE\\Andriod\\YYAppBJ\\app\\src\\main\\res\\drawable-hdpi\\mm_title_btn_pressed.9.png"
+    },
+    {
+        "merged": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_divider_mtrl_alpha.9.png",
+        "source": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\drawable-hdpi-v4\\abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\shoushu.png",
+        "source": "F:\\CODE\\Andriod\\YYAppBJ\\app\\src\\main\\res\\drawable-hdpi\\shoushu.png"
+    },
+    {
+        "merged": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\yizhubiaozhu3.png",
+        "source": "F:\\CODE\\Andriod\\YYAppBJ\\app\\src\\main\\res\\drawable-hdpi\\yizhubiaozhu3.png"
+    },
+    {
+        "merged": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mrpinggu.png",
+        "source": "F:\\CODE\\Andriod\\YYAppBJ\\app\\src\\main\\res\\drawable-hdpi\\mrpinggu.png"
+    },
+    {
+        "merged": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mm_title_functionframe_pressed.9.png",
+        "source": "F:\\CODE\\Andriod\\YYAppBJ\\app\\src\\main\\res\\drawable-hdpi\\mm_title_functionframe_pressed.9.png"
+    },
+    {
+        "merged": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\title_btn_function.png",
+        "source": "F:\\CODE\\Andriod\\YYAppBJ\\app\\src\\main\\res\\drawable-hdpi\\title_btn_function.png"
+    },
+    {
+        "merged": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_popup_background_mtrl_mult.9.png",
+        "source": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\drawable-hdpi-v4\\abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_qumsg.png",
+        "source": "F:\\CODE\\Andriod\\YYAppBJ\\app\\src\\main\\res\\drawable-hdpi\\icon_qumsg.png"
+    },
+    {
+        "merged": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\edittext1.png",
+        "source": "F:\\CODE\\Andriod\\YYAppBJ\\app\\src\\main\\res\\drawable-hdpi\\edittext1.png"
+    },
+    {
+        "merged": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_switch_track_mtrl_alpha.9.png",
+        "source": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\drawable-hdpi-v4\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\checkbox_selected.png",
+        "source": "F:\\CODE\\Andriod\\YYAppBJ\\app\\src\\main\\res\\drawable-hdpi\\checkbox_selected.png"
+    },
+    {
+        "merged": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_light.9.png",
+        "source": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\progress_3.png",
+        "source": "F:\\CODE\\Andriod\\YYAppBJ\\app\\src\\main\\res\\drawable-hdpi\\progress_3.png"
+    },
+    {
+        "merged": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\maintab_message_pressed.png",
+        "source": "F:\\CODE\\Andriod\\YYAppBJ\\app\\src\\main\\res\\drawable-hdpi\\maintab_message_pressed.png"
+    },
+    {
+        "merged": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_000.png",
+        "source": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\rypinggu.png",
+        "source": "F:\\CODE\\Andriod\\YYAppBJ\\app\\src\\main\\res\\drawable-hdpi\\rypinggu.png"
+    },
+    {
+        "merged": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_spinner_mtrl_am_alpha.9.png",
+        "source": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\drawable-hdpi-v4\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png",
+        "source": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\namebt.png",
+        "source": "F:\\CODE\\Andriod\\YYAppBJ\\app\\src\\main\\res\\drawable-hdpi\\namebt.png"
+    },
+    {
+        "merged": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\maintab_setting_pressed.png",
+        "source": "F:\\CODE\\Andriod\\YYAppBJ\\app\\src\\main\\res\\drawable-hdpi\\maintab_setting_pressed.png"
+    },
+    {
+        "merged": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\progress_9.png",
+        "source": "F:\\CODE\\Andriod\\YYAppBJ\\app\\src\\main\\res\\drawable-hdpi\\progress_9.png"
+    },
+    {
+        "merged": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dialog_success_top.png",
+        "source": "F:\\CODE\\Andriod\\YYAppBJ\\app\\src\\main\\res\\drawable-hdpi\\dialog_success_top.png"
+    },
+    {
+        "merged": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\progress_4.png",
+        "source": "F:\\CODE\\Andriod\\YYAppBJ\\app\\src\\main\\res\\drawable-hdpi\\progress_4.png"
+    },
+    {
+        "merged": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\yizhubiaozhu.png",
+        "source": "F:\\CODE\\Andriod\\YYAppBJ\\app\\src\\main\\res\\drawable-hdpi\\yizhubiaozhu.png"
+    },
+    {
+        "merged": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\yzzhixingdan.png",
+        "source": "F:\\CODE\\Andriod\\YYAppBJ\\app\\src\\main\\res\\drawable-hdpi\\yzzhixingdan.png"
+    },
+    {
+        "merged": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\yizhu.png",
+        "source": "F:\\CODE\\Andriod\\YYAppBJ\\app\\src\\main\\res\\drawable-hdpi\\yizhu.png"
+    },
+    {
+        "merged": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\drawable-hdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_rating_star_on_mtrl_alpha.png",
+        "source": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\drawable-hdpi-v4\\abc_btn_rating_star_on_mtrl_alpha.png"
+    },
+    {
+        "merged": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mm_title_btn_compose_normal.png",
+        "source": "F:\\CODE\\Andriod\\YYAppBJ\\app\\src\\main\\res\\drawable-hdpi\\mm_title_btn_compose_normal.png"
+    },
+    {
+        "merged": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png",
+        "source": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\drawable-hdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\spinnerbg.png",
+        "source": "F:\\CODE\\Andriod\\YYAppBJ\\app\\src\\main\\res\\drawable-hdpi\\spinnerbg.png"
+    },
+    {
+        "merged": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_onemsg.png",
+        "source": "F:\\CODE\\Andriod\\YYAppBJ\\app\\src\\main\\res\\drawable-hdpi\\icon_onemsg.png"
+    },
+    {
+        "merged": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dialog_success_bg.png",
+        "source": "F:\\CODE\\Andriod\\YYAppBJ\\app\\src\\main\\res\\drawable-hdpi\\dialog_success_bg.png"
+    },
+    {
+        "merged": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mm_title_btn_focused.9.png",
+        "source": "F:\\CODE\\Andriod\\YYAppBJ\\app\\src\\main\\res\\drawable-hdpi\\mm_title_btn_focused.9.png"
+    },
+    {
+        "merged": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_clear_mtrl_alpha.png",
+        "source": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\drawable-hdpi-v4\\abc_ic_clear_mtrl_alpha.png"
+    },
+    {
+        "merged": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\maintab_exit_pressed.png",
+        "source": "F:\\CODE\\Andriod\\YYAppBJ\\app\\src\\main\\res\\drawable-hdpi\\maintab_exit_pressed.png"
+    },
+    {
+        "merged": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\yizhubiaozhu2.png",
+        "source": "F:\\CODE\\Andriod\\YYAppBJ\\app\\src\\main\\res\\drawable-hdpi\\yizhubiaozhu2.png"
+    },
+    {
+        "merged": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bglist.png",
+        "source": "F:\\CODE\\Andriod\\YYAppBJ\\app\\src\\main\\res\\drawable-hdpi\\bglist.png"
+    },
+    {
+        "merged": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_ab_back_mtrl_am_alpha.png",
+        "source": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\drawable-hdpi-v4\\abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_go_search_api_mtrl_alpha.png",
+        "source": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\drawable-hdpi-v4\\abc_ic_go_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\progress_14.png",
+        "source": "F:\\CODE\\Andriod\\YYAppBJ\\app\\src\\main\\res\\drawable-hdpi\\progress_14.png"
+    },
+    {
+        "merged": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\progress_11.png",
+        "source": "F:\\CODE\\Andriod\\YYAppBJ\\app\\src\\main\\res\\drawable-hdpi\\progress_11.png"
+    },
+    {
+        "merged": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mm_title_btn_qrcode_normal.png",
+        "source": "F:\\CODE\\Andriod\\YYAppBJ\\app\\src\\main\\res\\drawable-hdpi\\mm_title_btn_qrcode_normal.png"
+    },
+    {
+        "merged": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ypguanli.png",
+        "source": "F:\\CODE\\Andriod\\YYAppBJ\\app\\src\\main\\res\\drawable-hdpi\\ypguanli.png"
+    },
+    {
+        "merged": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\checkbox_unselect.png",
+        "source": "F:\\CODE\\Andriod\\YYAppBJ\\app\\src\\main\\res\\drawable-hdpi\\checkbox_unselect.png"
+    },
+    {
+        "merged": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_msgstate.png",
+        "source": "F:\\CODE\\Andriod\\YYAppBJ\\app\\src\\main\\res\\drawable-hdpi\\icon_msgstate.png"
+    },
+    {
+        "merged": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\maintab_exit_normal.png",
+        "source": "F:\\CODE\\Andriod\\YYAppBJ\\app\\src\\main\\res\\drawable-hdpi\\maintab_exit_normal.png"
+    },
+    {
+        "merged": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\setting_banbenxx.png",
+        "source": "F:\\CODE\\Andriod\\YYAppBJ\\app\\src\\main\\res\\drawable-hdpi\\setting_banbenxx.png"
+    },
+    {
+        "merged": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_voice_search_api_mtrl_alpha.png",
+        "source": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\drawable-hdpi-v4\\abc_ic_voice_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_msgstate1.png",
+        "source": "F:\\CODE\\Andriod\\YYAppBJ\\app\\src\\main\\res\\drawable-hdpi\\icon_msgstate1.png"
+    }
+]

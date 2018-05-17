@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:orientation="vertical" >
+
+    <include
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        layout="@layout/title_activity" />
+
+    <RelativeLayout
+        android:id="@+id/layout_accountmanage"
+        android:layout_width="match_parent"
+        android:layout_height="70dp" >
+
+        <ImageView
+            android:id="@+id/msg_type"
+            android:layout_width="55dp"
+            android:layout_height="55dp"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="15dp"
+            android:layout_marginRight="15dp"
+            android:background="@drawable/docter" />
+
+        <ImageView
+            android:id="@+id/msg_right"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_gravity="center_vertical"
+            android:layout_marginRight="15dp"
+            android:background="@drawable/right" />
+
+        <TextView
+            android:id="@+id/msgtitle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="5dp"
+            android:layout_marginTop="3dp"
+            android:layout_toLeftOf="@id/msg_right"
+            android:layout_toRightOf="@id/msg_type"
+            android:singleLine="true"
+            android:text="帐号管理"
+            android:textSize="20sp" />
+
+        <View
+            android:layout_width="fill_parent"
+            android:layout_height="1dp"
+            android:layout_alignParentBottom="true"
+            android:background="@color/gray_boder" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/layout_syssetting"
+        android:layout_width="match_parent"
+        android:layout_height="70dp" >
+
+        <ImageView
+            android:id="@+id/msg_type1"
+            android:layout_width="45dp"
+            android:layout_height="45dp"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="15dp"
+            android:background="@drawable/setting_set" />
+
+        <ImageView
+            android:id="@+id/msg_right1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_gravity="center_vertical"
+            android:layout_marginRight="15dp"
+            android:background="@drawable/right" />
+
+        <TextView
+            android:id="@+id/msgtitle1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="5dp"
+            android:layout_marginTop="3dp"
+            android:layout_toLeftOf="@id/msg_right1"
+            android:layout_toRightOf="@id/msg_type1"
+            android:singleLine="true"
+            android:text="系统设置"
+            android:textSize="20sp" />
+
+        <View
+            android:layout_width="fill_parent"
+            android:layout_height="1dp"
+            android:layout_alignParentBottom="true"
+            android:background="@color/gray_boder" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/layout_banbenxx"
+        android:layout_width="match_parent"
+        android:layout_height="70dp" >
+
+        <ImageView
+            android:id="@+id/msg_type2"
+            android:layout_width="45dp"
+            android:layout_height="45dp"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="15dp"
+            android:background="@drawable/setting_banbenxx" />
+
+        <ImageView
+            android:id="@+id/msg_right2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_gravity="center_vertical"
+            android:layout_marginRight="15dp"
+            android:background="@drawable/right" />
+
+        <TextView
+            android:id="@+id/msgtitle2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="5dp"
+            android:layout_marginTop="3dp"
+            android:layout_toLeftOf="@id/msg_right2"
+            android:layout_toRightOf="@id/msg_type2"
+            android:singleLine="true"
+            android:text="版本信息"
+            android:textSize="20sp" />
+
+        <TextView
+            android:id="@+id/setting_banbenhao"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="15dp"
+            android:layout_marginTop="3dp"
+            android:layout_toLeftOf="@id/msg_right2"
+            android:singleLine="true"
+            android:text="V1.03"
+            android:textSize="14sp" />
+
+        <View
+            android:layout_width="fill_parent"
+            android:layout_height="1dp"
+            android:layout_alignParentBottom="true"
+            android:background="@color/gray_boder" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/layout_banquanxx"
+        android:layout_width="match_parent"
+        android:layout_height="70dp" >
+
+        <ImageView
+            android:id="@+id/msg_type3"
+            android:layout_width="45dp"
+            android:layout_height="45dp"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="15dp"
+            android:background="@drawable/setting_banquanxx" />
+
+        <ImageView
+            android:id="@+id/msg_right3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_gravity="center_vertical"
+            android:layout_marginRight="15dp"
+            android:background="@drawable/right" />
+
+        <TextView
+            android:id="@+id/msgtitle3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="5dp"
+            android:layout_marginTop="3dp"
+            android:layout_toLeftOf="@id/msg_right3"
+            android:layout_toRightOf="@id/msg_type3"
+            android:singleLine="true"
+            android:text="版权信息"
+            android:textSize="20sp" />
+    	<View
+            android:layout_width="fill_parent"
+            android:layout_height="1dp"
+            android:layout_alignParentBottom="true"
+            android:background="@color/gray_boder" />
+    </RelativeLayout>
+
+</LinearLayout>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:orientation="vertical" >
+
+    <include
+        android:id="@+id/title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        layout="@layout/title_activitypatient" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="@color/edit_gray"
+        android:focusable="true"
+        android:focusableInTouchMode="true"
+        android:gravity="center_vertical"
+        android:orientation="horizontal" >
+
+        <ImageButton
+            android:id="@+id/gaojisearch"
+            android:layout_width="35dp"
+            android:layout_height="35dp"
+            android:layout_marginLeft="10dp"
+            android:layout_gravity="center_vertical"
+            android:background="@drawable/searchpatientgaoji" />
+
+        <EditText
+            android:id="@+id/search_patient"
+            android:layout_width="match_parent"
+            android:layout_height="35dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="20dp"
+            android:background="@drawable/fillet_editgray"
+            android:gravity="center"
+            android:hint="@string/search"
+            android:imeOptions="actionSearch"
+            android:textSize="13dp"
+            android:textColor="@color/gray_search"
+            android:singleLine="true" />
+    </LinearLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="fill_parent" >
+
+        <ProgressBar
+            android:id="@+id/progressbar"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true" />
+
+        <ListView
+            android:id="@+id/listview"
+            android:layout_width="match_parent"
+            android:layout_height="fill_parent"
+            android:divider="@color/gray_line"
+            android:dividerHeight="0.5dp"
+            android:listSelector="@drawable/bglist" >
+        </ListView>
+    </RelativeLayout>
+
+</LinearLayout>

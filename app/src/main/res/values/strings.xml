@@ -1,0 +1,26 @@
+<resources>
+    <string name="updating">正在更新</string>
+    <string name="latest">暂无更新</string>
+    <string name="update_version">版本更新</string>
+    <string name="update_title">更新提示</string>
+    <string name="yes">确定</string>
+    <string name="cancel">取消</string>
+    <string name="hello">Hello World, CaptureActivity!</string>
+    <string name="app_name">移动护理</string>
+    <string name="set">+</string>
+    <string name="side_name">姚翠玲</string>
+    <string name="login">登录</string>
+    <string name="search">病人搜索</string>
+    <string name="msgsearch">消息搜索</string>
+    <string name="maintab_message">消息</string>
+    <string name="maintab_patient">病人</string>
+    <string name="maintab_setting">设置</string>
+    <string name="maintab_exit">退出</string>
+    <string name="syssettingtips">服务器连接验证未通过，请检查设置信息</string>
+    <string name="spinner01">全部</string>
+    <string name="hint_scan">Please put the code in the frame to scan automatically.</string>
+    <string name="msg_camera_framework_bug">Sorry</string>
+    <string name="version_mag">
+        方软公司移动护理护士端app，让您的工作更方便快捷，信息更完整。
+    </string>
+</resources>

@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.yy.app"
+    android:versionCode="2017092818"
+    android:versionName="1.1.8"
+    android:windowSoftInputMode="adjustPan" >
+
+    <uses-sdk
+        android:minSdkVersion="21"
+        android:targetSdkVersion="21" />
+
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.VIBRATE" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_LOCATION_EXTRA_COMMANDS" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.RECEIVE_SMS" />
+    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+    <uses-permission android:name="android.permission.MODIFY_AUDIO_SETTINGS" />
+    <uses-permission android:name="android.permission.READ_CONTACTS" />
+    <uses-permission android:name="android.permission.WRITE_CONTACTS" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+
+    <uses-feature android:name="android.hardware.camera" />
+    <uses-feature android:name="android.hardware.camera.autofocus" />
+
+    <uses-permission android:name="android.permission.VIBRATE" />
+    <uses-permission android:name="android.permission.FLASHLIGHT" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/icon"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme"
+        android:windowSoftInputMode="adjustUnspecified|stateHidden|adjustResize" >
+        <activity
+            android:name="com.yy.keyapp.module.login.WelcomeActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.yy.app.newapp.MainTabActivity"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateHidden|adjustPan" />
+ <!-- TAB界面 -->
+        <activity
+            android:name="com.yy.keyapp.module.login.LoginActivity"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait" />
+ <!-- 登录 -->
+        <activity
+            android:name="com.yy.app.newapp.SysSettingActivity"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait" />
+ <!-- 系统设置（IP） -->
+        <activity
+            android:name="com.yy.app.SettingActivity"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait" />
+ <!-- 设置 -->
+        <activity
+            android:name="com.yy.app.newapp.MSGListActivity"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait" />
+ <!-- 消息列表 -->
+        <activity
+            android:name="com.yy.app.newapp.MSGDescActivity"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait" />
+ <!-- 详细消息页 -->
+        <activity
+            android:name="com.yy.app.AccountManagerActivity"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait" />
+ <!-- 护士账户管理 -->
+        <activity
+            android:name="com.yy.app.PatientActivity"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait" />
+ <!-- 病人列表 -->
+        <activity
+            android:name="com.yy.app.PatientDescActivity"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait" />
+ <!-- 病人详细 -->
+        <activity
+            android:name="com.yy.app.YizhuActivity"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait" />
+ <!-- 医嘱 -->
+        <activity
+            android:name="com.yy.app.JiaoJieActivity"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait" />
+ <!-- 交接班（选择交接日期） -->
+        <activity
+            android:name="com.yy.app.JiaoJieDesActivity"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait" />
+ <!-- 交接班（详情页）） -->
+        <activity
+            android:name="com.yy.app.AddJiaoJieActivity"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateHidden|adjustPan" />
+ <!-- 交接班（增加交接页面） -->
+        <activity
+            android:name="com.yy.app.JianChaActivity"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait" />
+ <!-- 检查 -->
+        <activity
+            android:name="com.yy.app.JianYanActivity"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait" />
+ <!-- 检验 -->
+        <activity
+            android:name="com.yy.app.ShouShuActivity"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait" />
+ <!-- 手术 -->
+        <activity
+            android:name="com.yy.app.HuliActivity"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait" />
+ <!-- 护理 -->
+        <activity
+            android:name="com.yy.app.AddHuliActivity"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateHidden|adjustPan" />
+ <!-- 添加护理单 -->
+        <activity
+            android:name="com.yy.app.HuliDesActivity"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait" />
+ <!-- 护理单详情 -->
+        <activity
+            android:name="com.yy.app.MRPGSelectDateActivity"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait" />
+ <!-- 每日评估（选择交接日期） -->
+        <activity
+            android:name="com.yy.app.MRPingguActivity"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait" />
+ <!-- 每日评估 -->
+        <activity
+            android:name="com.yy.app.AddmrpingguActivity"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateHidden|adjustPan" />
+ <!-- 每日评估添加 -->
+        <activity
+            android:name="com.yy.app.MRpinggudescActivity"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait" />
+ <!-- 每日评估详情 -->
+        <activity
+            android:name="com.yy.app.PatientDescPagerActivity"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait" />
+ <!-- 每日评估详情 -->
+        <activity
+            android:name="com.yy.app.UpmrpgActivity"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait" />
+ <!-- 提交每日评估 -->
+        <activity
+            android:name="com.yy.app.newapp.RYpingguActivity"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateHidden|adjustPan" />
+ <!-- 入院评估 -->
+        <activity
+            android:name="com.yy.app.RYPinguUPActivity"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateHidden|adjustPan" />
+ <!-- 入院评估 -->
+        <activity
+            android:name="com.yy.app.RYsecondActivity"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateHidden|adjustPan" />
+ <!-- 入院评估 -->
+        <activity
+            android:name="com.yy.app.UpdataActivity"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait" />
+ <!-- 提交入院评估 -->
+        <activity
+            android:name="com.yy.app.JiaoyvActivity"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait" />
+ <!-- 教育 -->
+        <activity
+            android:name="com.yy.app.AddjiaoyvActivity"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateHidden|adjustPan" />
+ <!-- 提交教育 -->
+        <activity
+            android:name="com.yy.app.JiaoyuDesActivity"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait" />
+ <!-- 教育（详情） -->
+        <activity
+            android:name="com.yy.app.biaobenguanliActivity"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait" />
+ <!-- 样品管理 -->
+        <activity
+            android:name="com.yy.app.newapp.YizhuzxdActivity"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait" />
+ <!-- 医嘱执行单 -->
+        <activity
+            android:name="com.yy.app.JianYanresActivity"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait" />
+ <!-- 检验返回结果 -->
+        <activity
+            android:name="com.yy.app.UpjiaoyvActivity"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait" />
+ <!-- 提交教育 -->
+        <activity
+            android:name="com.yy.app.AdvSearchActivity"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait" />
+ <!-- 高级搜索 -->
+        <!-- <activity -->
+        <!-- android:name="com.yy.app.jiaoyvbdActivity" -->
+        <!-- android:launchMode="singleTask" -->
+        <!-- android:screenOrientation="portrait" /> &lt;!&ndash; 教育表单 &ndash;&gt; -->
+        <activity
+            android:name="com.yy.app.WebViewActivity"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait" />
+ <!-- WebViewActivity -->
+        <activity
+            android:name="com.yy.app.CodeActivity"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait" />
+ <!-- 扫描activity -->
+        <activity
+            android:name="com.yy.app.jiaoyvbdupActivity"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait" />
+ <!-- 教育表单 -->
+        <activity
+            android:name="com.yy.app.BanQuanActivity"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait" />
+ <!-- 版权信息activity -->
+        <activity
+            android:name="com.yy.app.PinguUPActivity"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait" />
+ <!-- 评估提交 -->
+
+        <activity
+            android:name="com.yy.keyapp.module.patient.NPatientlistActivity"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait" />
+ <!-- 病人 -->
+
+        <activity
+            android:name="com.yy.keyapp.module.patient.NPatientDescActivity"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait" />
+ <!-- 病人详细 -->
+        <activity
+            android:name="com.yy.keyapp.module.patient.DialogActivity"
+            android:launchMode="singleTask"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+        <activity
+            android:name="com.yy.keyapp.module.aboult.versionactivity"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.yy.key.QRcodeScan.activity.CaptureActivity"
+            android:configChanges="orientation|keyboardHidden"
+            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" >
+        </activity>
+
+        <service android:name="com.yy.service.MyService" />
+
+        <receiver android:name="com.yy.service.MyReceiver" >
+            <intent-filter android:priority="90000" >
+                <action android:name="android.intent.action.USER_PRESENT" />
+            </intent-filter>
+        </receiver>
+    </application>
+
+</manifest>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TabHost xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@android:id/tabhost"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" >
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent" >
+
+        <LinearLayout
+            android:id="@+id/radiogrop_layout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:background="@color/graybg"
+            android:orientation="horizontal" >
+
+            <RadioGroup
+                android:id="@+id/main_tab_group"
+                android:layout_width="fill_parent"
+                android:layout_height="60dp"
+                android:layout_gravity="bottom"
+                android:layout_weight="1"
+                android:gravity="bottom"
+                android:orientation="horizontal" >
+
+                <RadioButton
+                    android:id="@+id/main_tab_message"
+                    style="@style/maintab_bottom"
+                    android:drawableTop="@drawable/maintab_message_selector"
+                    android:text="@string/maintab_message" />
+
+                <RadioButton
+                    android:id="@+id/main_tab_patient"
+                    style="@style/maintab_bottom"
+                    android:drawableTop="@drawable/maintab_patient_selector"
+                    android:text="@string/maintab_patient" />
+
+                <RadioButton
+                    android:id="@+id/main_tab_setting"
+                    style="@style/maintab_bottom"
+                    android:drawableTop="@drawable/maintab_setting_selector"
+                    android:text="@string/maintab_setting" />
+            </RadioGroup>
+
+            <Button
+                android:id="@+id/main_tab_exit"
+                style="@style/maintab_bottom"
+                android:layout_weight="3"
+                android:drawableTop="@drawable/maintab_exit_selector"
+                android:text="@string/maintab_exit" />
+        </LinearLayout>
+
+        <!-- 实现提醒信息用的 -->
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="60dp"
+            android:layout_alignParentBottom="true"
+            android:background="#00000000"
+            android:orientation="horizontal" >
+
+            <!-- 显示提醒信息的button android:layout_weight=1  是4个butto，平分手机界面的宽度 -->
+
+            <Button
+                android:id="@+id/bt"
+                android:layout_width="0dp"
+                android:layout_height="fill_parent"
+                android:layout_weight="1"
+                android:background="#00000000" />
+            <!-- 占位置的button，以便适应不同分辨率手机 -->
+
+            <Button
+                android:layout_width="0dp"
+                android:layout_height="fill_parent"
+                android:layout_weight="1"
+                android:visibility="invisible" />
+            <!-- 占位置的button，以便适应不同分辨率手机 -->
+
+            <Button
+                android:layout_width="0dp"
+                android:layout_height="fill_parent"
+                android:layout_weight="1"
+                android:visibility="invisible" />
+            <!-- 占位置的button，以便适应不同分辨率手机 -->
+
+            <Button
+                android:layout_width="0dp"
+                android:layout_height="fill_parent"
+                android:layout_weight="1"
+                android:visibility="invisible" />
+        </LinearLayout>
+
+        <FrameLayout
+            android:id="@android:id/tabcontent"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_above="@id/radiogrop_layout"
+            android:layout_marginBottom="1dp" />
+
+        <TabWidget
+            android:id="@android:id/tabs"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:visibility="gone" />
+
+        <View
+            android:layout_width="fill_parent"
+            android:layout_height="1dp"
+            android:layout_above="@id/radiogrop_layout"
+            android:background="@color/gray_boder" />
+    </RelativeLayout>
+
+</TabHost>

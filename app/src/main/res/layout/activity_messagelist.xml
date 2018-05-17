@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:orientation="vertical">
+
+    <include
+        layout="@layout/title_msgactivity"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="@color/edit_gray"
+        android:focusable="true"
+        android:focusableInTouchMode="true"
+        android:gravity="center_vertical">
+
+        <EditText
+            android:id="@+id/search_msg"
+            android:layout_width="match_parent"
+            android:layout_height="35dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:background="@drawable/fillet_editgray"
+            android:gravity="center"
+            android:hint="@string/msgsearch"
+            android:imeOptions="actionSearch"
+            android:singleLine="true"
+            android:textSize="13dp" />
+    </LinearLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="fill_parent">
+
+        <ProgressBar
+            android:id="@+id/progressbar"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true" />
+
+        <ListView
+            android:id="@+id/msglistview"
+            android:layout_width="match_parent"
+            android:layout_height="fill_parent"
+            android:divider="@color/msgline"
+            android:dividerHeight="1dp"
+            android:listSelector="@drawable/bglist">
+        </ListView>
+
+    </RelativeLayout>
+
+
+</LinearLayout>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/RelativeLayout_Item"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/graybg"
+    android:layout_gravity="center"
+    android:padding="5dip" >
+
+    <CheckBox
+        android:id="@+id/expendgridviewitem_checkbox"
+        android:layout_width="30dp"
+        android:layout_height="27dp"
+        android:layout_centerVertical="true"
+        android:button="@drawable/checkbox_selector"
+        android:layout_marginLeft="10dp" >
+    </CheckBox>
+
+    <TextView
+        android:id="@+id/expendgridviewitem_name"
+        android:layout_width="wrap_content"
+        android:layout_height="30dp"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="15dp"
+        android:layout_toRightOf="@id/expendgridviewitem_checkbox"
+        android:gravity="center_vertical"
+        android:text="神经系统" >
+    </TextView>
+
+</RelativeLayout>

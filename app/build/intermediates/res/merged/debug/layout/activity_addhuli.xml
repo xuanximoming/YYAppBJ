@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:orientation="vertical" >
+
+    <include
+        android:id="@+id/title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        layout="@layout/title_activity" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical" >
+
+        <include
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            layout="@layout/item_patienttop" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:background="@color/titleblue"
+            android:gravity="center_vertical"
+            android:orientation="horizontal"
+            android:paddingLeft="10dp"
+            android:paddingRight="10dp" >
+
+            <RadioGroup
+                android:id="@+id/rgb_group"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:orientation="horizontal" >
+
+                <RadioButton
+                    android:id="@+id/rgb_shengmingtizheng"
+                    style="@style/rgb_style"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:checked="true"
+                    android:gravity="center"
+                    android:text="生命体征" />
+
+                <RadioButton
+                    android:id="@+id/rgb_chuliang"
+                    style="@style/rgb_style"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:gravity="center"
+                    android:text="出量" />
+
+                <RadioButton
+                    android:id="@+id/rgb_ruliang"
+                    style="@style/rgb_style"
+                    android:layout_width="0dp"
+                    android:layout_height="fill_parent"
+                    android:layout_weight="1"
+                    android:gravity="center"
+                    android:text="入量" />
+
+                <RadioButton
+                    android:id="@+id/rgb_qita"
+                    style="@style/rgb_style"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:gravity="center"
+                    android:text="其他" />
+
+                <RadioButton
+                    android:id="@+id/rgb_shigu"
+                    style="@style/rgb_style"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:gravity="center"
+                    android:text="事故"
+                    android:visibility="gone" />
+            </RadioGroup>
+        </LinearLayout>
+
+        <LinearLayout
+            style="@style/yizhutitle2"
+            android:layout_width="match_parent"
+            android:layout_height="45dp"
+            android:gravity="center_vertical"
+            android:orientation="horizontal"
+            android:paddingLeft="30dp"
+            android:paddingRight="50dp" >
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:gravity="center_vertical"
+                android:text="项目"
+                android:textSize="16sp" />
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:gravity="center_vertical|right"
+                android:text="值"
+                android:textSize="16sp" />
+        </LinearLayout>
+
+        <View
+            android:layout_width="fill_parent"
+            android:layout_height="1dp"
+            android:background="@color/gray" />
+
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginBottom="10dp" >
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical" >
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" >
+
+                    <LinearLayout
+                        android:id="@+id/ll_shengmingtizheng"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="vertical" >
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:id="@+id/ll_chuliang"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="vertical" >
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:id="@+id/ll_ruliang"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="vertical" >
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:id="@+id/ll_qita"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="vertical" >
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:id="@+id/ll_shigu"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="vertical" >
+                    </LinearLayout>
+                </RelativeLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal"
+                    android:visibility="gone" >
+
+                    <Button
+                        android:id="@+id/add_items"
+                        android:layout_width="fill_parent"
+                        android:layout_height="40dp"
+                        android:layout_margin="10dp"
+                        android:layout_weight="3"
+                        android:background="@drawable/spinnerbg"
+                        android:gravity="center_vertical"
+                        android:paddingLeft="20dp"
+                        android:text="添加项目" />
+
+                    <TextView
+                        android:layout_width="fill_parent"
+                        android:layout_height="40dp"
+                        android:layout_margin="10dp"
+                        android:layout_weight="2"
+                        android:background="@drawable/circle_graybg"
+                        android:gravity="center_vertical"
+                        android:text="" />
+                </LinearLayout>
+            </LinearLayout>
+        </ScrollView>
+    </LinearLayout>
+
+</LinearLayout>

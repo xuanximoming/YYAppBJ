@@ -1,0 +1,382 @@
+[
+    {
+        "merged": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login.xml",
+        "source": "F:\\CODE\\Andriod\\YYAppBJ\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_spinner.xml",
+        "source": "F:\\CODE\\Andriod\\YYAppBJ\\app\\src\\main\\res\\layout\\item_spinner.xml"
+    },
+    {
+        "merged": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_shoushu.xml",
+        "source": "F:\\CODE\\Andriod\\YYAppBJ\\app\\src\\main\\res\\layout\\activity_shoushu.xml"
+    },
+    {
+        "merged": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_jianyan.xml",
+        "source": "F:\\CODE\\Andriod\\YYAppBJ\\app\\src\\main\\res\\layout\\activity_jianyan.xml"
+    },
+    {
+        "merged": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\res\\merged\\debug\\layout\\title_activity.xml",
+        "source": "F:\\CODE\\Andriod\\YYAppBJ\\app\\src\\main\\res\\layout\\title_activity.xml"
+    },
+    {
+        "merged": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\res\\merged\\debug\\layout\\expendtitle_items.xml",
+        "source": "F:\\CODE\\Andriod\\YYAppBJ\\app\\src\\main\\res\\layout\\expendtitle_items.xml"
+    },
+    {
+        "merged": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_1.xml",
+        "source": "F:\\CODE\\Andriod\\YYAppBJ\\app\\src\\main\\res\\layout\\dialog_1.xml"
+    },
+    {
+        "merged": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_addhuli.xml",
+        "source": "F:\\CODE\\Andriod\\YYAppBJ\\app\\src\\main\\res\\layout\\activity_addhuli.xml"
+    },
+    {
+        "merged": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_shoushu.xml",
+        "source": "F:\\CODE\\Andriod\\YYAppBJ\\app\\src\\main\\res\\layout\\item_shoushu.xml"
+    },
+    {
+        "merged": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_selectdate.xml",
+        "source": "F:\\CODE\\Andriod\\YYAppBJ\\app\\src\\main\\res\\layout\\item_selectdate.xml"
+    },
+    {
+        "merged": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_patienttop.xml",
+        "source": "F:\\CODE\\Andriod\\YYAppBJ\\app\\src\\main\\res\\layout\\item_patienttop.xml"
+    },
+    {
+        "merged": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_patientdesc.xml",
+        "source": "F:\\CODE\\Andriod\\YYAppBJ\\app\\src\\main\\res\\layout\\activity_patientdesc.xml"
+    },
+    {
+        "merged": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_hulidesc.xml",
+        "source": "F:\\CODE\\Andriod\\YYAppBJ\\app\\src\\main\\res\\layout\\item_hulidesc.xml"
+    },
+    {
+        "merged": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_patientlist.xml",
+        "source": "F:\\CODE\\Andriod\\YYAppBJ\\app\\src\\main\\res\\layout\\activity_patientlist.xml"
+    },
+    {
+        "merged": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_messagelist.xml",
+        "source": "F:\\CODE\\Andriod\\YYAppBJ\\app\\src\\main\\res\\layout\\activity_messagelist.xml"
+    },
+    {
+        "merged": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_updata.xml",
+        "source": "F:\\CODE\\Andriod\\YYAppBJ\\app\\src\\main\\res\\layout\\activity_updata.xml"
+    },
+    {
+        "merged": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_huli.xml",
+        "source": "F:\\CODE\\Andriod\\YYAppBJ\\app\\src\\main\\res\\layout\\activity_huli.xml"
+    },
+    {
+        "merged": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_rypinguup.xml",
+        "source": "F:\\CODE\\Andriod\\YYAppBJ\\app\\src\\main\\res\\layout\\item_rypinguup.xml"
+    },
+    {
+        "merged": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_success.xml",
+        "source": "F:\\CODE\\Andriod\\YYAppBJ\\app\\src\\main\\res\\layout\\dialog_success.xml"
+    },
+    {
+        "merged": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_dialog.xml",
+        "source": "F:\\CODE\\Andriod\\YYAppBJ\\app\\src\\main\\res\\layout\\activity_dialog.xml"
+    },
+    {
+        "merged": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_welcome.xml",
+        "source": "F:\\CODE\\Andriod\\YYAppBJ\\app\\src\\main\\res\\layout\\activity_welcome.xml"
+    },
+    {
+        "merged": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_patient.xml",
+        "source": "F:\\CODE\\Andriod\\YYAppBJ\\app\\src\\main\\res\\layout\\item_patient.xml"
+    },
+    {
+        "merged": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_version.xml",
+        "source": "F:\\CODE\\Andriod\\YYAppBJ\\app\\src\\main\\res\\layout\\activity_version.xml"
+    },
+    {
+        "merged": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_yangben.xml",
+        "source": "F:\\CODE\\Andriod\\YYAppBJ\\app\\src\\main\\res\\layout\\item_yangben.xml"
+    },
+    {
+        "merged": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_messagedesc.xml",
+        "source": "F:\\CODE\\Andriod\\YYAppBJ\\app\\src\\main\\res\\layout\\activity_messagedesc.xml"
+    },
+    {
+        "merged": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_jiaoyvbd.xml",
+        "source": "F:\\CODE\\Andriod\\YYAppBJ\\app\\src\\main\\res\\layout\\item_jiaoyvbd.xml"
+    },
+    {
+        "merged": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_advsearch.xml",
+        "source": "F:\\CODE\\Andriod\\YYAppBJ\\app\\src\\main\\res\\layout\\activity_advsearch.xml"
+    },
+    {
+        "merged": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_advsearch.xml",
+        "source": "F:\\CODE\\Andriod\\YYAppBJ\\app\\src\\main\\res\\layout\\item_advsearch.xml"
+    },
+    {
+        "merged": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_simple_dropdown_hint.xml",
+        "source": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\layout\\abc_simple_dropdown_hint.xml"
+    },
+    {
+        "merged": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_biaobenguanli.xml",
+        "source": "F:\\CODE\\Andriod\\YYAppBJ\\app\\src\\main\\res\\layout\\activity_biaobenguanli.xml"
+    },
+    {
+        "merged": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_returnedit.xml",
+        "source": "F:\\CODE\\Andriod\\YYAppBJ\\app\\src\\main\\res\\layout\\item_returnedit.xml"
+    },
+    {
+        "merged": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\res\\merged\\debug\\layout\\title_msgactivity.xml",
+        "source": "F:\\CODE\\Andriod\\YYAppBJ\\app\\src\\main\\res\\layout\\title_msgactivity.xml"
+    },
+    {
+        "merged": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_addjiaojie.xml",
+        "source": "F:\\CODE\\Andriod\\YYAppBJ\\app\\src\\main\\res\\layout\\activity_addjiaojie.xml"
+    },
+    {
+        "merged": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_returnbt.xml",
+        "source": "F:\\CODE\\Andriod\\YYAppBJ\\app\\src\\main\\res\\layout\\item_returnbt.xml"
+    },
+    {
+        "merged": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\res\\merged\\debug\\layout\\title_activitypatientdesc.xml",
+        "source": "F:\\CODE\\Andriod\\YYAppBJ\\app\\src\\main\\res\\layout\\title_activitypatientdesc.xml"
+    },
+    {
+        "merged": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog.xml",
+        "source": "F:\\CODE\\Andriod\\YYAppBJ\\app\\src\\main\\res\\layout\\dialog.xml"
+    },
+    {
+        "merged": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_rypgsecond.xml",
+        "source": "F:\\CODE\\Andriod\\YYAppBJ\\app\\src\\main\\res\\layout\\item_rypgsecond.xml"
+    },
+    {
+        "merged": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_rypinggulist.xml",
+        "source": "F:\\CODE\\Andriod\\YYAppBJ\\app\\src\\main\\res\\layout\\activity_rypinggulist.xml"
+    },
+    {
+        "merged": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_advsearch1.xml",
+        "source": "F:\\CODE\\Andriod\\YYAppBJ\\app\\src\\main\\res\\layout\\item_advsearch1.xml"
+    },
+    {
+        "merged": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_setting.xml",
+        "source": "F:\\CODE\\Andriod\\YYAppBJ\\app\\src\\main\\res\\layout\\activity_setting.xml"
+    },
+    {
+        "merged": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_hulidesc.xml",
+        "source": "F:\\CODE\\Andriod\\YYAppBJ\\app\\src\\main\\res\\layout\\activity_hulidesc.xml"
+    },
+    {
+        "merged": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_jiancha.xml",
+        "source": "F:\\CODE\\Andriod\\YYAppBJ\\app\\src\\main\\res\\layout\\activity_jiancha.xml"
+    },
+    {
+        "merged": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_newmsg.xml",
+        "source": "F:\\CODE\\Andriod\\YYAppBJ\\app\\src\\main\\res\\layout\\item_newmsg.xml"
+    },
+    {
+        "merged": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_jianyanres.xml",
+        "source": "F:\\CODE\\Andriod\\YYAppBJ\\app\\src\\main\\res\\layout\\activity_jianyanres.xml"
+    },
+    {
+        "merged": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_yizhu.xml",
+        "source": "F:\\CODE\\Andriod\\YYAppBJ\\app\\src\\main\\res\\layout\\activity_yizhu.xml"
+    },
+    {
+        "merged": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_rypinggusecond.xml",
+        "source": "F:\\CODE\\Andriod\\YYAppBJ\\app\\src\\main\\res\\layout\\activity_rypinggusecond.xml"
+    },
+    {
+        "merged": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\res\\merged\\debug\\layout\\maintab.xml",
+        "source": "F:\\CODE\\Andriod\\YYAppBJ\\app\\src\\main\\res\\layout\\maintab.xml"
+    },
+    {
+        "merged": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_listprogressfei.xml",
+        "source": "F:\\CODE\\Andriod\\YYAppBJ\\app\\src\\main\\res\\layout\\item_listprogressfei.xml"
+    },
+    {
+        "merged": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_yizhuzxd.xml",
+        "source": "F:\\CODE\\Andriod\\YYAppBJ\\app\\src\\main\\res\\layout\\activity_yizhuzxd.xml"
+    },
+    {
+        "merged": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_accmanager.xml",
+        "source": "F:\\CODE\\Andriod\\YYAppBJ\\app\\src\\main\\res\\layout\\activity_accmanager.xml"
+    },
+    {
+        "merged": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_banquan.xml",
+        "source": "F:\\CODE\\Andriod\\YYAppBJ\\app\\src\\main\\res\\layout\\activity_banquan.xml"
+    },
+    {
+        "merged": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_webview.xml",
+        "source": "F:\\CODE\\Andriod\\YYAppBJ\\app\\src\\main\\res\\layout\\activity_webview.xml"
+    },
+    {
+        "merged": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_failed.xml",
+        "source": "F:\\CODE\\Andriod\\YYAppBJ\\app\\src\\main\\res\\layout\\dialog_failed.xml"
+    },
+    {
+        "merged": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_jiaoyv.xml",
+        "source": "F:\\CODE\\Andriod\\YYAppBJ\\app\\src\\main\\res\\layout\\item_jiaoyv.xml"
+    },
+    {
+        "merged": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_last.xml",
+        "source": "F:\\CODE\\Andriod\\YYAppBJ\\app\\src\\main\\res\\layout\\item_last.xml"
+    },
+    {
+        "merged": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\res\\merged\\debug\\layout\\expenditem_gridview.xml",
+        "source": "F:\\CODE\\Andriod\\YYAppBJ\\app\\src\\main\\res\\layout\\expenditem_gridview.xml"
+    },
+    {
+        "merged": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_jiaojiedes.xml",
+        "source": "F:\\CODE\\Andriod\\YYAppBJ\\app\\src\\main\\res\\layout\\activity_jiaojiedes.xml"
+    },
+    {
+        "merged": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_yizhu.xml",
+        "source": "F:\\CODE\\Andriod\\YYAppBJ\\app\\src\\main\\res\\layout\\item_yizhu.xml"
+    },
+    {
+        "merged": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_capture.xml",
+        "source": "F:\\CODE\\Andriod\\YYAppBJ\\app\\src\\main\\res\\layout\\activity_capture.xml"
+    },
+    {
+        "merged": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\res\\merged\\debug\\layout\\expendgridview_items.xml",
+        "source": "F:\\CODE\\Andriod\\YYAppBJ\\app\\src\\main\\res\\layout\\expendgridview_items.xml"
+    },
+    {
+        "merged": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\res\\merged\\debug\\layout\\title_activitypatient.xml",
+        "source": "F:\\CODE\\Andriod\\YYAppBJ\\app\\src\\main\\res\\layout\\title_activitypatient.xml"
+    },
+    {
+        "merged": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_rypinggulist.xml",
+        "source": "F:\\CODE\\Andriod\\YYAppBJ\\app\\src\\main\\res\\layout\\item_rypinggulist.xml"
+    },
+    {
+        "merged": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_msg.xml",
+        "source": "F:\\CODE\\Andriod\\YYAppBJ\\app\\src\\main\\res\\layout\\item_msg.xml"
+    },
+    {
+        "merged": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_jiancha.xml",
+        "source": "F:\\CODE\\Andriod\\YYAppBJ\\app\\src\\main\\res\\layout\\item_jiancha.xml"
+    },
+    {
+        "merged": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_addhuli.xml",
+        "source": "F:\\CODE\\Andriod\\YYAppBJ\\app\\src\\main\\res\\layout\\item_addhuli.xml"
+    },
+    {
+        "merged": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_radiobt.xml",
+        "source": "F:\\CODE\\Andriod\\YYAppBJ\\app\\src\\main\\res\\layout\\item_radiobt.xml"
+    },
+    {
+        "merged": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_search.xml",
+        "source": "F:\\CODE\\Andriod\\YYAppBJ\\app\\src\\main\\res\\layout\\activity_search.xml"
+    },
+    {
+        "merged": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_jiaojie.xml",
+        "source": "F:\\CODE\\Andriod\\YYAppBJ\\app\\src\\main\\res\\layout\\activity_jiaojie.xml"
+    },
+    {
+        "merged": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_patientdescpater.xml",
+        "source": "F:\\CODE\\Andriod\\YYAppBJ\\app\\src\\main\\res\\layout\\activity_patientdescpater.xml"
+    },
+    {
+        "merged": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_patientpager.xml",
+        "source": "F:\\CODE\\Andriod\\YYAppBJ\\app\\src\\main\\res\\layout\\item_patientpager.xml"
+    },
+    {
+        "merged": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_jiaoyvbd.xml",
+        "source": "F:\\CODE\\Andriod\\YYAppBJ\\app\\src\\main\\res\\layout\\activity_jiaoyvbd.xml"
+    },
+    {
+        "merged": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_mrpinggu.xml",
+        "source": "F:\\CODE\\Andriod\\YYAppBJ\\app\\src\\main\\res\\layout\\activity_mrpinggu.xml"
+    },
+    {
+        "merged": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_syssetting.xml",
+        "source": "F:\\CODE\\Andriod\\YYAppBJ\\app\\src\\main\\res\\layout\\activity_syssetting.xml"
+    },
+    {
+        "merged": "F:\\CODE\\Andriod\\YYAppBJ\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_pingguup.xml",
+        "source": "F:\\CODE\\Andriod\\YYAppBJ\\app\\src\\main\\res\\layout\\activity_pingguup.xml"
+    }
+]

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:id="@+id/yizhu_msg"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/fillet_ypred"
+        android:gravity="center_vertical"
+        android:orientation="horizontal" >
+
+        <TextView
+            android:id="@+id/ybname"
+            style="@style/yizhu15"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="10dp"
+            android:layout_weight="1"
+            android:background="@color/white"
+            android:gravity="center"
+            android:paddingBottom="15dp"
+            android:paddingLeft="-10dp"
+            android:paddingRight="0dp"
+            android:paddingTop="10dp"
+            android:text="标本" />
+
+        <TextView
+            android:id="@+id/ybcode"
+            style="@style/yizhu15"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:background="@color/white"
+            android:gravity="center"
+            android:paddingBottom="15dp"
+            android:paddingTop="10dp"
+            android:text="检查号" />
+
+        <TextView
+            android:id="@+id/cjname"
+            style="@style/yizhu15"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:background="@color/white"
+            android:gravity="center"
+            android:paddingBottom="15dp"
+            android:paddingTop="10dp"
+            android:text="采集人" />
+
+        <TextView
+            android:id="@+id/cjtime"
+            style="@style/yizhu15"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:background="@color/white"
+            android:gravity="center"
+            android:paddingBottom="15dp"
+            android:paddingTop="10dp"
+            android:text="日期" />
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/yizhubiaozhu1"
+        style="@style/yizhu15"
+        android:layout_width="wrap_content"
+        android:layout_height="16dp"
+        android:layout_marginLeft="25dp"
+        android:layout_marginTop="-15dp"
+        android:background="@drawable/yizhubiaozhu2"
+        android:paddingLeft="8dp"
+        android:paddingRight="8dp"
+        android:visibility="gone" />
+
+    <TextView
+        android:id="@+id/yizhubiaozhu"
+        style="@style/yizhu15"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/yizhubiaozhu3"
+        android:paddingBottom="15dp"
+        android:paddingLeft="25dp"
+        android:paddingRight="25dp"
+        android:paddingTop="15dp"
+        android:visibility="gone" />
+
+</LinearLayout>

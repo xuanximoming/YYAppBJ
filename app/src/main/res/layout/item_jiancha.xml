@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:id="@+id/yizhu_msg"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_vertical"
+        android:orientation="horizontal"
+        android:paddingBottom="15dp"
+        android:paddingTop="10dp" >
+
+        <TextView
+            android:id="@+id/bigc"
+            style="@style/yizhu15"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:text="大类别" />
+
+        <TextView
+            android:id="@+id/smc"
+            style="@style/yizhu15"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:text="小类别" />
+
+        <TextView
+            android:id="@+id/doct"
+            style="@style/yizhu15"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:text="医生"
+            android:visibility="gone"
+             />
+
+        <TextView
+            android:id="@+id/time"
+            style="@style/yizhu15"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:text="日期" />
+
+       
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/yizhubiaozhu1"
+        style="@style/yizhu15"
+        android:layout_width="34dp"
+        android:layout_height="13dp"
+        android:layout_marginLeft="25dp"
+        android:layout_marginTop="-13dp"
+        android:background="@drawable/yizhubiaozhu2"
+        android:visibility="gone"/>
+    <TextView
+        android:id="@+id/yizhubiaozhu"
+        style="@style/yizhu15"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/yizhubiaozhu3"
+        android:paddingLeft="25dp"
+        android:paddingRight="25dp"
+        android:paddingTop="15dp"
+        android:paddingBottom="15dp"
+        android:visibility="gone"
+        />
+
+</LinearLayout>
